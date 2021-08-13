@@ -9,11 +9,15 @@ public class VariableDemo {
 
         String name="Raj Kumar";
         System.out.println(name);
+        System.out.println("Your Name is ---" +name);
+
         String  cityName="AGRA";
         System.out.println(cityName);
+        System.out.println("City name is " +cityName);
 
         int age=25;
         System.out.println(age);
+        System.out.println("Your age is "+age);
         int marks=76;
         System.out.println(marks);
 

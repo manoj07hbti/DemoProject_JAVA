@@ -35,7 +35,7 @@ public class DemolistWithGenerics {
     }
 
     public static void main(String[] args) {
-        DemolistWithGenerics obj=new DemolistWithGenerics();
+        DemolistWithGenerics obj=new DemolistWithGenerics();// Default constructor
 
         obj.demo();
 

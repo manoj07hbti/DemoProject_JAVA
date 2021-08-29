@@ -32,6 +32,8 @@ public class HashMapDemo {
         System.out.println(stringHashMap.get("B"));
         System.out.println(stringHashMap.get("C"));
 
+        stringHashMap.remove("A");
+
     }
 
     public static void main(String[] args) {

@@ -20,6 +20,8 @@ public class DemoSet {
         stringHashSet.add("Spring Boot");
         stringHashSet.add("Spring Boot");
 
+        stringHashSet.remove("Java");
+
         for (String var: stringHashSet){
 
             System.out.println("Printing hashset " +var );

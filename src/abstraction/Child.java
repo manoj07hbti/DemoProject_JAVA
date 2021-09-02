@@ -9,6 +9,11 @@ public class Child extends AbstractDemo {
         System.out.println("Method is overridden ");
     }
 
+    @Override
+    public void m2() {
+
+    }
+
     public static void main(String[] args) {
         Child obj= new Child();
         obj.demo();
